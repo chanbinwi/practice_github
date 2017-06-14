@@ -10,9 +10,5 @@
 show에 도착!! 수정사항!
 <li>새로운 태그 생성</li>
 <li></li>
-asdasdasdasd
-asda
-asdasd
-asd
 </body>
 </html>

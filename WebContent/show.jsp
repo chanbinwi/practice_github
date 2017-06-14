@@ -7,7 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 show¿¡ µµÂø!! ¼öÁ¤»çÇ×!
 <li>»õ·Î¿î ÅÂ±× »ı¼º</li>
+=======
+show¿¡ µµÂø!!
+>>>>>>> parent of d0ebbdc... ìƒˆë¡œ ë§Œë“¤ì—ˆìŒ
 </body>
 </html>
